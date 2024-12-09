@@ -1,0 +1,14 @@
+{
+  "name": "import-meta-resolve-geist",
+  "version": "1.0.0",
+  "description": "A demonstration of using the Geist font package and the results of import.meta.resolve",
+  "author": "Owen Buckley <owen@thegreenhouse.io>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node ."
+  },
+  "dependencies": {
+    "geist": "^1.3.1"
+  }
+}
